@@ -9,3 +9,13 @@
 <li>python</li>
 <body>
 </html>
+
+
+
+2.creating html form
+<form>
+<input type="radio"label="check box"
+name"button" id="number" value="date"
+<input type="file" label="hidden" name="reset"
+<label for="html">html</label>
+</form>
